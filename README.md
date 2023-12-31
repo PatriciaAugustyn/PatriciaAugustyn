@@ -11,14 +11,13 @@ I'm a passionate NLP (Natural Language Processing) student based in Paris, delvi
    <a href="https://github.com/PatriciaAugustyn">
      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaAugustyn&hide=HTML&langs_count=3&theme=tokyonight"/>
    </a>
+   <a>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatriciaAugustyn&theme=tokyonight&hide_border=false" />
+   </a>
 </div>
 
 ![GitHub followers](https://img.shields.io/github/followers/PatriciaAugustyn?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/PatriciaAugustyn/PatriciaAugustyn?style=social)
-
-## 👩🏻‍💻 Languages and Tools
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![NLP](https://img.shields.io/badge/NLP-3DDC84?style=flat-square&logo=natural-language-processing&logoColor=white)
 
 
 ## 💻 Languages and Tools
@@ -35,10 +34,6 @@ I'm a passionate NLP (Natural Language Processing) student based in Paris, delvi
 - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 - ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-![](https://github-readme-stats.vercel.app/api?username=PatriciaAugustyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PatriciaAugustyn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaAugustyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=PatriciaAugustyn&icon=0&color=0)](https://visitcount.itsvg.in)
 
