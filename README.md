@@ -5,11 +5,11 @@ I'm a passionate NLP (Natural Language Processing) student based in Paris, delvi
 ## 📈 My Github Stat
 <div align="center"> 
    <a href="https://github.com/PatriciaAugustyn" >
-     <img src="https://github-readme-stats.vercel.app/api?username=PatriciaAugustyn&hide=HTML&show_icons=true&theme=tokyonight"/>
+     <img height="150" src="https://github-readme-stats.vercel.app/api?username=PatriciaAugustyn&hide=HTML&show_icons=true&theme=tokyonight"/>
    </a>
    
    <a href="https://github.com/PatriciaAugustyn">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatriciaAugustyn&theme=tokyonight&hide_border=false" />
+      <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=PatriciaAugustyn&theme=tokyonight&hide_border=false" />
    </a>
    
    <a href="https://github.com/PatriciaAugustyn">
