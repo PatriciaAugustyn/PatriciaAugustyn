@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Patricia 👋
 
-<!--
-**PatriciaAugustyn/PatriciaAugustyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate NLP (Natural Language Processing) student based in Paris, delving into the fascinating world of language and technology. My curiosity knows no bounds, and I thrive on turning ideas into tangible projects. From exploring the intricacies of language models to crafting innovative solutions, I'm on a journey to make a meaningful impact in the field. Let's connect, collaborate, and build something extraordinary together! 🚀 #NLP #ParisianInTech ✨
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 My Github Stat
+<div align="center"> 
+   <a href="https://github.com/PatriciaAugustyn" >
+     <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=PatriciaAugustyn&hide=HTML&show_icons=true&theme=tokyonight"/>
+   </a>
+   
+   <a href="https://github.com/PatriciaAugustyn">
+     <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaAugustyn&hide=HTML&langs_count=3&theme=tokyonight"/>
+   </a>
+</div>
